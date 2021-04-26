@@ -1,0 +1,18 @@
+extern void printF(float32 val);
+extern void printI(int32 val2);
+extern void printC(char8 val3);
+
+
+void func2(){
+	int32 a = 1 ;
+	float32 a;
+	printI(a);
+}
+
+void fun1(){
+	
+}
+
+func2();
+fun1();
+
